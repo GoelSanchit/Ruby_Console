@@ -1,4 +1,4 @@
-# Ruby is a dynamic, interpreted, object oriented language
+# Ruby is a dynamic,# interpreted, object oriented language
 # Everything is an object and all of those objects can be overwritten
 # Ruby is one of the easiest languages to read and with Rails it may be
 # the best web development option period
