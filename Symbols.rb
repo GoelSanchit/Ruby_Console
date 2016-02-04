@@ -1,4 +1,4 @@
-# --------------- SYMBOLS ---------------
+# -------------- SYMBOLS ---------------
 
 # Symbols are strings that can't be changed
 # You use them to conserve memory and to speed string comparisons
