@@ -1,3 +1,3 @@
 # Ruby_Console
 
-Some Examples on Ruby
+Learn Ruby Basics From These Basics Tutorial Codes.
