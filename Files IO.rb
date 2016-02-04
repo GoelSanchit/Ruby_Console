@@ -1,4 +1,4 @@
-# The class File provides for file manipulation
+# The class File provides fr file manipulation
 
 # Create a file for writing
 file = File.new("authors.out", "w")
