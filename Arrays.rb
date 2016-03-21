@@ -12,7 +12,6 @@ puts array_2
 puts array_3
 puts array_4
 
-
 # Indexes start at 0
 puts array_4[2]
 
