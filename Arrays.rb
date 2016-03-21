@@ -1,4 +1,5 @@
 # --------------- ARRAYS ---------------
+
 # Creating arrays
 
 array_1 = Array.new
