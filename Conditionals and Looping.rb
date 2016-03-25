@@ -1,7 +1,6 @@
 =begin
 Multiline comments
 =end
-
 # --------------- IF ELSE ELSIF ---------------
 
 age = 12
