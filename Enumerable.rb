@@ -1,6 +1,5 @@
 # Classes that include the Enumerable module gain collection capabilities
 # but they must define a function called each
-
 class Menu
   include Enumerable
 
