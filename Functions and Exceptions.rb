@@ -1,4 +1,4 @@
-# --------------- FUNCTIONS ---------------
+# --------------- FUNCTIONS --------------
 
 # Functions start with def, function name, parameters if any
 # They can return, or not a value
