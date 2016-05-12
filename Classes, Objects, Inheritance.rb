@@ -24,7 +24,6 @@ class Animal
   def name
     @name
   end
-
   # Provides another way to set the value for name
   def name=(new_name)
 
