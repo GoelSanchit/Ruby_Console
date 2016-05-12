@@ -83,7 +83,6 @@ puts rover.bark
 class GermanShepard < Dog
 
   # You can overwrite methods as you need
-
   def bark
     return "Loud Bark"
   end
