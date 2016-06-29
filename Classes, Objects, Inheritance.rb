@@ -1,6 +1,5 @@
 # In an object oriented language we model real world objects using classes
 # Every object has attributes (instance variables) and capabilities (methods)
-
 class Animal
 
   # Called when an Animal object is created
